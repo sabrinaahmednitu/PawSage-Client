@@ -74,7 +74,7 @@ First clone the project then must you have node.js 18+ version. Then open the co
 1. First Clone the project main branch
 
 ```js
-https://github.com/souravh093/PawSage-client.git
+https://github.com/sabrinaahmednitu/PawSage-Client
 ```
 
 2. Open you terminal and change directory to the project directory
